@@ -1,0 +1,6 @@
+py-cord
+random
+json
+sqllite
+asyncio
+py-cord
